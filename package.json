@@ -61,15 +61,15 @@
     "lodash": "4.16.4"
   },
   "devDependencies": {
-    "bcryptjs": "~2.3.0",
+    "bcryptjs": "~2.4.4",
     "grunt": "~1.0.1",
     "grunt-contrib-jshint": "~1.0.0",
     "grunt-contrib-watch": "~1.0.0",
     "grunt-mocha-test": "^0.13.2",
     "mocha": "^3.1.0",
-    "sails": "~0.12.3",
-    "sails-mongo": "~0.12.0",
-    "should": "~11.1.0",
-    "should-promised": "0.3.1"
+    "sails": "^1.0.0-39",
+    "sails-mongo": "^1.0.0-11",
+    "should": "~13.1.3"
+  
   }
 }
